@@ -281,17 +281,17 @@ src：
 
 ## 前端页面：
 
-虽然不要求前端界面，但这题目简单时间又多，就一起做了。截个图：
+虽然不要求前端界面，但题目简单,时间又多，就一起做了。截个图：
 
 1. 管理员登录界面：![登录图片](https://github.com/yshouke/vote/blob/master/react/images/image-20220627225648745.png)
 2. 所有用户列表：![image-20220627230135687](https://github.com/yshouke/vote/blob/master/react/images/image-20220627230116290.png)
-3. 所有候选人列表：![所有候选人列表](C:\Users\bauiw\AppData\Roaming\Typora\typora-user-images\image-20220627230318348.png)
-4. 选举记录相关页面![image-20220627230526209](C:\Users\bauiw\AppData\Roaming\Typora\typora-user-images\image-20220627230526209.png)
-5. ![image-20220627230618784](C:\Users\bauiw\AppData\Roaming\Typora\typora-user-images\image-20220627230618784.png)
+3. 所有候选人列表：![候选人](https://github.com/yshouke/vote/blob/master/react/images/image-20220627230318348.png)
+4. 选举记录相关页面![image-20220627230526209](https://github.com/yshouke/vote/blob/master/react/images/image-20220627230526209.png)
+5. ![image-20220627230618784](https://github.com/yshouke/vote/blob/master/react/images/image-20220627230618784.png)
 
-6. ![image-20220627230919142](C:\Users\bauiw\AppData\Roaming\Typora\typora-user-images\image-20220627230919142.png)
+6. ![image-20220627230919142](https://github.com/yshouke/vote/blob/master/react/images/image-20220627230919142.png)
 
-7.  普通用户投票页面：![image-20220627231136909](C:\Users\bauiw\AppData\Roaming\Typora\typora-user-images\image-20220627231136909.png)
+7.  普通用户投票页面：![image-20220627231136909](https://github.com/yshouke/vote/blob/master/react/images/image-20220627231136909.png)
 
 
 
@@ -321,7 +321,7 @@ src：
 
 ## 演示站点：
 
-​	反正前端都写完了，直接部署吧..	
+​	反正前端都写完了，直接部署..	
 
 ​	演示站点地址：https://simple-election-vote.site/#/user/login
 
@@ -407,7 +407,7 @@ src：
 
 1. 共四张表【`用户表`，`选举表`，`候选人表`，`候选人与选举关联表`】对应了modus文件夹下面的【`user`, `election`, `candidate`】模块，投票的逻辑在对应的service里面
 
-2. 投票的逻辑：![image-20220628111142859](C:\Users\bauiw\AppData\Roaming\Typora\typora-user-images\image-20220628111142859.png)
+2. 投票的逻辑：![image-20220628111142859](https://github.com/yshouke/vote/blob/master/react/images/image-20220628111142859.png)
 
 3.   权限相关在 roles.guard.ts和local.strategy.ts 文件里面， 一个校验登录，一个校验管理员和普通用户的的权限
 
