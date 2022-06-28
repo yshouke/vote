@@ -283,8 +283,8 @@ src：
 
 虽然不要求前端界面，但这题目简单时间又多，就一起做了。截个图：
 
-1. 管理员登录界面：![image-20220627225648745](C:\Users\bauiw\AppData\Roaming\Typora\typora-user-images\image-20220627225648745.png)
-2. 所有用户列表：![image-20220627230135687](C:\Users\bauiw\AppData\Roaming\Typora\typora-user-images\image-20220627230135687.png)
+1. 管理员登录界面：![登录图片](https://github.com/yshouke/vote/blob/master/react/images/image-20220627225648745.png)
+2. 所有用户列表：![image-20220627230135687](https://github.com/yshouke/vote/blob/master/react/images/image-20220627230116290.png)
 3. 所有候选人列表：![所有候选人列表](C:\Users\bauiw\AppData\Roaming\Typora\typora-user-images\image-20220627230318348.png)
 4. 选举记录相关页面![image-20220627230526209](C:\Users\bauiw\AppData\Roaming\Typora\typora-user-images\image-20220627230526209.png)
 5. ![image-20220627230618784](C:\Users\bauiw\AppData\Roaming\Typora\typora-user-images\image-20220627230618784.png)
